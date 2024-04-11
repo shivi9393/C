@@ -1,9 +1,7 @@
 #include<stdio.h>
-int main()
+int revrese(int )
 {
-    int num1,num;
-    printf("enter num: ");
-    scanf("%d ",&num);
+  int num1
     while(num!=0){
         num1=num%10;
         num=num/10;
@@ -12,4 +10,9 @@ int main()
     }
 
     return 0;
+}
+void main(){
+      int num1,num;
+    printf("enter num: ");
+    scanf("%d ",&num);
 }
