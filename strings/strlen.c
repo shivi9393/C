@@ -9,7 +9,7 @@
 // }
 
 // int main(){
-//     int i;
+//     int i
 //     char a[]="indian";
 //     char b[20];
 //     strcpy(b,a);
